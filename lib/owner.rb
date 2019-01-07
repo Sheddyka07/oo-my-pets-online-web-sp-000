@@ -28,4 +28,6 @@ class Owner
     puts "I am a #{species}."
   end
   
+  
+  
 end
